@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Mac Book",
+        "price": 960000,
+        "image": "/public/images/macbook.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mac Book Pro",
+        "price": 1200000,
+        "image": "/public/images/macPro.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Dell",
+        "price": 485000,
+        "image": "/public/images/dell.jpg"
+    },
+    {
+        "id": 4,
+        "name": "I-Phone",
+        "price": 540000,
+        "image": "/public/images/iphone.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kids Cloth",
+        "price": 8000,
+        "image": "/public/images/kids.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Men Cloth",
+        "price": 7400,
+        "image": "/public/images/men.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Laker Jersey",
+        "price": 12000,
+        "image": "/public/images/basketball-jersey.jpg"
+    },
+    {
+        "id": 8,
+        "name": "HP Laptop",
+        "price": 660000,
+        "image": "/public/images/hp1.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nike Shoe",
+        "price": 65000,
+        "image": "/public/images/nike.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Sneakers",
+        "price": 32000,
+        "image": "/public/images/sneakers.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Women Cloth",
+        "price": 960000,
+        "image": "/public/images/women.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Mouse",
+        "price": 960000,
+        "image": "/public/images/mouse.jpg"
+    }
+]
